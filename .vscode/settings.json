@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a8d05f20-c7db-40f3-a13d-e6d03ea5a6ca/resourceGroups/manager/providers/Microsoft.Web/sites/ngtest-mcampulla",
+    "appService.deploySubpath": "dist\\ngtest"
+}
